@@ -21,16 +21,16 @@ class _LeaderboardPageState extends State<LeaderboardPage> {
   TextEditingController controller = TextEditingController();
   late bool local;
   final List names = [
-    'Sarvesh Mehta',
-    'Karanjeet Gill',
+    'King Edwin'
+        'tree',
     'Rahul Bose',
-    'ABCDEF',
-    'ABCDEF',
-    'ABCDEF',
-    'ABCDEF',
-    'ABCDEF',
-    'ABCDEF',
-    'ABCDEF'
+    'JOel',
+    'Jackson',
+    'Allan',
+    'Benon',
+    'Axam',
+    'Salaam',
+    'teem'
   ];
 
   final List coins = [
